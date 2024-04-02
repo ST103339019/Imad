@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicUl</string>
+    <string name="header">Welcome to my application</string>
+    <string name="username">Please enter username</string>
+</resources>
